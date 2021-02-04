@@ -12,3 +12,5 @@ Then,Saving and Loading the model using Pickle library
 Finally, deploying the model using Flask as a web-app with Rest-API
 And the project is deployed to Heroku.
 
+The link to heroku deployment- https://house-price-prediction-rate-ml.herokuapp.com/apidocs/
+
